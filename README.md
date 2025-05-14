@@ -9,9 +9,6 @@ A JavaFX application for encrypting and decrypting text using the Rail Fence Cip
 - User-friendly GUI with background image
 - Built-in test cases for validation and performance
 
-## 📷 UI Preview
-![UI Background](src/encryption/decryption/background.png)
-
 ## 🚀 How to Run
 1. Make sure Java and JavaFX are properly configured in your IDE (e.g., NetBeans or IntelliJ).
 2. Open the project folder.
