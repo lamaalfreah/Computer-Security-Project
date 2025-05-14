@@ -12,7 +12,7 @@ A JavaFX application for encrypting and decrypting text using the Rail Fence Cip
 ## 🚀 How to Run
 1. Make sure Java and JavaFX are properly configured in your IDE (e.g., NetBeans or IntelliJ).
 2. Open the project folder.
-3. Run the `EncryptionDecryption.java` file located at:
+3. Run the `EncryptionDecryption.java` file 
 
 
 ## 🎮 Controls
