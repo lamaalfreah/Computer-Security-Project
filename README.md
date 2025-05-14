@@ -19,7 +19,7 @@ A JavaFX application for encrypting and decrypting text using the Rail Fence Cip
 - Enter the number of rails (key)
 - Attach a text file using the “Attach File” button
 - Choose **Encryption** or **Decryption** radio button
-- Save the result with the **Save Encrypted File** button
+- Save the result with the **Save File** button
 
 ## 🧪 Tests Included
 - Functional tests for encryption and decryption
